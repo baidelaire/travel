@@ -101,8 +101,8 @@ const App = () => {
 						weatherData={weatherData}
 					/>
 				</Grid>
-				<Footer />
 			</Grid>
+			<Footer />
 		</>
 	);
 };
