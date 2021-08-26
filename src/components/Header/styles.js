@@ -47,4 +47,12 @@ export default makeStyles((theme) => ({
 		color: "#fff",
 		backgroundColor: "#54b53f",
 	},
+	footbar: {
+		color: "#fff",
+		backgroundColor: "#54b53f",
+	},
+	center: {
+		flexGrow: 1,
+		textAlign: "center",
+	},
 }));
